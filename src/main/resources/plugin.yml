@@ -1,0 +1,7 @@
+name: CosmeticsGui
+version: '${project.version}'
+main: me.luckdeh.cosmeticsgui.CosmeticsGui
+api-version: '1.20'
+commands:
+  cosmetics:
+    description: Opens the cosmetics menu
